@@ -5,16 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/disaster-app.streamlit.app.ico",
     "slug": "my-streamlit-app",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "22.11%",
+    "uptimeDay": "22.11%",
+    "uptimeWeek": "22.11%",
+    "uptimeMonth": "22.11%",
+    "uptimeYear": "22.11%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-25": 0
+    }
   }
 ]
